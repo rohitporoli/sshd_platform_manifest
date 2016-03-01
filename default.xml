@@ -55,6 +55,7 @@
   <project path="external/f2fs-tools" name="external_f2fs-tools" groups="pdk" remote="sshd" />
   <project path="external/flac" name="external_flac" groups="pdk" remote="sshd" />
   <project path="external/fuse" name="external_fuse" groups="pdk" remote="sshd" />
+  <project path="external/google" name="external_google" groups="pdk" remote="sshd" />
   <project path="external/libnfc-nci" name="external_libnfc-nci" groups="pdk" remote="sshd" />
   <project path="external/libnfc-nxp" name="external_libnfc-nxp" groups="pdk" remote="sshd" />
   <project path="external/ntfs-3g" name="external_ntfs-3g" groups="pdk" remote="sshd" />
